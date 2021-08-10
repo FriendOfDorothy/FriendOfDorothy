@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FriendOfDorothy
-- 👀 I’m interested in finding an entry level job in software engineering
-- 🌱 I’m currently learning all things javascript! Fours years strong in react JS. Pursuing my Master's in MIS.
-- 💞️ I’m looking to collaborate on anything really. I'm just passionate about programming!
+- 👀 Software Engineer @ Perficient, Inc
+- 🌱 I’m currently learning MERN stack (MongoDB, Express, React, Node.js).
+- 💞️ I’m looking to collaborate on anything really. I'm just building stuff :)
 - 📫 You can reach me @ countertenacity@gmail.com
 
 <!---
